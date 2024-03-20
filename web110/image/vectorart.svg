@@ -1,1 +1,10 @@
-<img src="Happy_Todd.jpg" alt="An image of a cartoon character" width="571" height="321">
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The img element</h1>
+
+<img src="Bob_(LOD).svg" alt="Bob (LOD)" width="128" height="113">
+
+</body>
+</html>
