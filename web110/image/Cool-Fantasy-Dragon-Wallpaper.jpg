@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An image of a Dragon</h2>
+
+<img src="Cool-Fantasy-Dragon-Wallpaper.jpg" alt="Cool Fantasy Dragon Wallpaper" style="width:500px;height:600px;">
+
+</body>
+</html>
